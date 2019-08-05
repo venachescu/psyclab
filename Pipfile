@@ -1,0 +1,14 @@
+[packages]
+
+numpy
+pandas
+matplotlib
+python-osc
+six
+glumpy
+sysv_ipc
+CppHeaderParser
+
+[requires]
+
+python_version = "3.6"
